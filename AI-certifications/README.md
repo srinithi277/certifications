@@ -1,3 +1,4 @@
-# AI Certifications
+# 🤖 AI & Data Science Certificates
 
-Certificates related to Artificial Intelligence and Data Science.
+Certificates related to Artificial Intelligence, Data Science,
+Machine Learning, and related learning.
