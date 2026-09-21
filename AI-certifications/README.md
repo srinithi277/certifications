@@ -1,19 +1,9 @@
-# 🏆 Certifications & Learning Achievements
+# 🤖 Artificial Intelligence
 
-Welcome to my certifications repository!
+A collection of my learning milestones in Artificial Intelligence
+and related technologies.
 
-This space contains certificates and learning achievements I've earned while building my foundation in **Artificial Intelligence, Data Science, and Programming**.
+📜 Certificates in this folder represent courses and learning
+experiences completed along my journey.
 
-## 📚 Areas of Learning
-
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 🧠 Machine Learning
-- 🐍 Python Programming
-- 💻 Technology & Programming
- 
-## 🌱 Learning Journey
-
-I'm continuously learning, practicing, and building my technical skills through courses, certifications, and hands-on projects.
-
-> **Learning today. Building for tomorrow. 🚀**
+> Explore. Learn. Build. Repeat. 🚀
